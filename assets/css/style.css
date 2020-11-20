@@ -10,7 +10,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* h1 display, font-size, and color */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -34,10 +34,11 @@ a {
     
 }
 
+/* p values font-size */
 p {
     font-size: 16px;
 }
-
+/* the image in the middle of the screen description */
 .hero {
     height: 800px;
     width: 100%;
@@ -47,12 +48,14 @@ p {
     background-position: center;
 }
 
+/* image moved to the left */
 .float-left {
     float: left;
     margin-right: 25px;
     
 }
 
+ /* image moved to the right */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -79,7 +82,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* aside part of the webpage color and margin*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -161,7 +164,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* link using nav */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -176,6 +179,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* the footer bottom part of the webpage */
 
 footer {
     padding: 30px;
